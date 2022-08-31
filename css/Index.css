@@ -1,0 +1,19 @@
+@import "./pageformat.css";
+
+ol p{
+    text-decoration:underline ;
+    font-weight: bold;
+}
+.Content a{
+    text-decoration: inherit;
+    color: inherit;
+}
+.Content a:hover{
+    color: grey;
+}
+ol li{
+    font-size: larger;
+}
+ul li{
+    font-size: large ;
+}
